@@ -1,1 +1,0 @@
-import{j as r}from"./index-CsPTJzJh.js";import{W as o}from"./vendor-antd-Dnh3Ma4s.js";import"./vendor-react-DcqtUZ_G.js";import"./vendor-ui-BASYQBt4.js";import"./vendor-utils-D1tjba5n.js";function a({onRefresh:t}){return r.jsx("div",{className:"mb-4 flex items-center justify-end",children:r.jsx(o,{className:"cursor-pointer text-lg",onClick:t})})}export{a as default};
