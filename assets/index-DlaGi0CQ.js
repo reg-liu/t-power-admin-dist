@@ -1,0 +1,1 @@
+import{j as o}from"./index-CYNmGjvu.js";import"./vendor-react-DcqtUZ_G.js";import"./vendor-ui-BASYQBt4.js";import"./vendor-antd-OFsw8wV_.js";import"./vendor-utils-Cfno4lyo.js";function e(){return o.jsx("div",{children:"Blog"})}export{e as default};
