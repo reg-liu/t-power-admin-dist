@@ -1,1 +1,0 @@
-import{j as t}from"./index-Kl0H17LA.js";import{j as r}from"./vendor-antd-OpNfoHdu.js";import"./vendor-react-DcqtUZ_G.js";import"./vendor-ui-BASYQBt4.js";import"./vendor-utils-Bhh-Zc6H.js";function p(){return t.jsx(r,{direction:"vertical",style:{display:"flex"},children:"Analystics"})}export{p as default};

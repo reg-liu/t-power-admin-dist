@@ -1,1 +1,0 @@
-import{j as e}from"./index-Kl0H17LA.js";import{j as t}from"./vendor-antd-OpNfoHdu.js";import"./vendor-react-DcqtUZ_G.js";import"./vendor-ui-BASYQBt4.js";import"./vendor-utils-Bhh-Zc6H.js";function p(){return e.jsx(t,{direction:"vertical",style:{display:"flex"},children:"Employee management"})}export{p as default};
