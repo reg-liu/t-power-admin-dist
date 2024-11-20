@@ -1,1 +1,0 @@
-import{j as r}from"./index-w0xx-SVX.js";import{j as t}from"./vendor-antd-OFsw8wV_.js";import"./vendor-react-DcqtUZ_G.js";import"./vendor-ui-BASYQBt4.js";import"./vendor-utils-Cfno4lyo.js";function m(){return r.jsx(t,{direction:"vertical",style:{display:"flex"},children:"Schedule"})}export{m as default};
