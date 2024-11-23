@@ -1,1 +1,0 @@
-import{j as r}from"./index--cqiSFsN.js";import{j as t}from"./vendor-antd-DkxSEqSW.js";import"./vendor-react-DcqtUZ_G.js";import"./vendor-ui-BASYQBt4.js";import"./vendor-utils-BnlEJVuT.js";function a(){return r.jsx(t,{direction:"vertical",style:{display:"flex"},children:"EV Monitoring"})}export{a as default};
