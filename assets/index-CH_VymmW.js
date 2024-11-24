@@ -1,1 +1,0 @@
-import{j as r}from"./index-C8R8GYsk.js";import{j as t}from"./vendor-antd-7_-hIQNy.js";import"./vendor-react-DcqtUZ_G.js";import"./vendor-ui-BASYQBt4.js";import"./vendor-utils-B0D_8pEH.js";function m(){return r.jsx(t,{direction:"vertical",style:{display:"flex"},children:"RFID"})}export{m as default};
