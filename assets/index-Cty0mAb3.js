@@ -1,1 +1,0 @@
-import{j as r}from"./index-C_7lFPDy.js";import{j as t}from"./vendor-antd-BTAAkOm8.js";import"./vendor-react-DcqtUZ_G.js";import"./vendor-ui-BASYQBt4.js";import"./vendor-utils-C-gVDttP.js";function m(){return r.jsx(t,{direction:"vertical",style:{display:"flex"},children:"TBox"})}export{m as default};
