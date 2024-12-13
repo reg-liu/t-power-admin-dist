@@ -1,0 +1,1 @@
+import{j as r}from"./index-DzoF5gIw.js";import{j as t}from"./vendor-antd-DouGSysN.js";import"./vendor-react-BcJS7s_i.js";import"./vendor-ui-DPkccqlC.js";import"./vendor-utils-Cpch6Ee7.js";function n(){return r.jsx(t,{direction:"vertical",style:{display:"flex"},children:"User Management"})}export{n as default};
