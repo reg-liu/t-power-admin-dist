@@ -1,0 +1,1 @@
+import{j as r}from"./index-DSSEs5Zi.js";import"./vendor-react-BcJS7s_i.js";import"./vendor-ui-DPkccqlC.js";import"./vendor-antd-BgzZSO1n.js";import"./vendor-utils-D7_oWXRD.js";function f({src:l=""}){return r.jsx("div",{className:"h-full w-full",children:r.jsx("iframe",{src:l,title:"iframe-page",className:"h-full w-full"})})}export{f as default};
