@@ -1,0 +1,1 @@
+import{j as r}from"./index-DojVPh2z.js";import{W as t}from"./vendor-antd-IarLURi0.js";import"./vendor-react-BcJS7s_i.js";import"./vendor-ui-DPkccqlC.js";import"./vendor-utils-Bc-7OOPz.js";function n({onRefresh:o}){return r.jsx("div",{className:"operation-area flex items-center justify-end",children:r.jsx(t,{className:"cursor-pointer text-lg",onClick:o})})}export{n as default};
