@@ -1,1 +1,0 @@
-import{g as t}from"./index-DGG3uvmK.js";const a=" | ",r=()=>t.get({url:"/charge-point-brands/"}),n=o=>t.post({url:"/charge-point-brands/",data:o}),s=o=>t.post({url:"/image-upload/",data:o}),c={rowKeySplit:a,getBrands:r,addBrand:n,uploadImage:s};export{c};
