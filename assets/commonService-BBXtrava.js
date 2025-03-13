@@ -1,1 +1,0 @@
-import{g as t}from"./index-CLFH7z0v.js";const r=" | ",s=o=>t.get({url:"/users/",params:o}),e=()=>t.get({url:"/charge-point-brands/"}),a=o=>t.post({url:"/charge-point-brands/",data:o}),n=o=>t.post({url:"/image-upload/",data:o}),p={rowKeySplit:r,getUsers:s,getBrands:e,addBrand:a,uploadImage:n};export{p as c};
