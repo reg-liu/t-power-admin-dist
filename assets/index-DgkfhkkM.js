@@ -1,0 +1,1 @@
+import{j as r}from"./index-DPvhXwK5.js";import{h as t}from"./vendor-antd-DmtkV1Ch.js";import"./vendor-react-BcJS7s_i.js";import"./vendor-ui-DPkccqlC.js";import"./vendor-utils-BKiv1F2M.js";function a(){return r.jsx(t,{direction:"vertical",style:{display:"flex"},children:"Record List"})}export{a as default};
