@@ -1,1 +1,0 @@
-const e=["AC","DC"],a=["ocpp2.0.1","ocpp1.6"],s=["1p+n","3p+n"],o=["1","2"],l=[{label:"Charge",value:"default"},{label:"Discharge",value:"v2g"}],c=[{label:"V2G",value:!0},{label:"Non-V2G",value:!1}],p=[{label:"Charge Mode",value:"charge_mode"},{label:"Discharge Mode",value:"discharge_mode"}];export{o as a,p as b,e as c,l as e,a as o,s as p,c as v};
