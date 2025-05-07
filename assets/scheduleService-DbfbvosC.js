@@ -1,1 +1,0 @@
-import{g as r}from"./index-CHTdgF_E.js";const s=e=>r.get({url:"/charge-profiles/",params:e}),o=e=>r.post({url:"/charge-profiles/",data:e}),t=e=>r.post({url:"/charge-profiles/bulk-delete/",data:e}),c=(e,l)=>r.patch({url:`/charge-profiles/${e}/`,data:l}),a={queryAll:s,add:o,update:c,del:t};export{a as s};
