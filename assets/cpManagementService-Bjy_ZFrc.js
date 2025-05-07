@@ -1,1 +1,0 @@
-import{g as t}from"./index-B2BBxYzW.js";const o=e=>t.get({url:"/charge-points/",params:e}),r=e=>t.get({url:`/charge-points//${e}/`}),s=e=>t.post({url:"/charge-points/",data:e}),c=e=>t.post({url:"/charge-points/bulk-delete/",data:e}),a={queryAll:o,queryById:r,add:s,del:c};export{a as c};
