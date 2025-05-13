@@ -1,0 +1,1 @@
+import{j as r}from"./index-BLO2Apo4.js";import{h as t}from"./vendor-antd-BiNc4BQP.js";import"./vendor-react-DcqtUZ_G.js";import"./vendor-ui-BASYQBt4.js";import"./vendor-utils-DcB4TerO.js";function n(){return r.jsx(t,{direction:"vertical",style:{display:"flex"},children:"EV User Management"})}export{n as default};
